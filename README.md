@@ -1,6 +1,6 @@
-# IMA201 - Télécom Paris 2022
+# IMA201 - Introduction au traitement des images
 
-IMA201 - Introduction au traitement des images
+IMA201 - Télécom Paris
 
 Python programming for image processing.
 
